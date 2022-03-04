@@ -335,5 +335,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Databases
+*.db
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij,windows,linux,macos,python
 
